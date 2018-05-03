@@ -1,4 +1,0 @@
-\Q/build/\E.*
-\Q/.settings/\E.*
-\Q/.gradle/\E.*
-\Q/.classpath\E
